@@ -1,0 +1,33 @@
+id: P294BAA75
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30037
+  instance_id: http://purl.bdrc.io/resource/IE30037
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་ཐོར་བུ། པདྨ་བཛྲ།
+  alt_title:
+    en-x-mixed:
+    - Rdzogs-chen mkhan chen Padma-badzraʼi gsun thor bu.
+    zh-hans:
+    - 佐钦白马班扎文集
+  author: http://purl.bdrc.io/resource/P6744
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6b3d543d440a45c5ab8f4461253ec34c:
+      title: པོད ༡་གསུང་ཐོར་བུ། པདྨ་བཛྲ།
+      volume_number: 1
+      base_file: UT30037_I1KG12943_0000.txt
+      reference: http://purl.bdrc.io/resource/VLEAA58C58BAC47295
+      image_group: I1KG12943
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW30037
+  - http://purl.bdrc.io/resource/W30037
+  ocr_software: Namsel
+created_at: '2021-12-22T11:18:26.990124'
+last_modified_at: '2021-12-22T11:18:26.990130'
